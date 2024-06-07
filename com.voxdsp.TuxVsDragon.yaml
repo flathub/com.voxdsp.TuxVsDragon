@@ -36,4 +36,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/mrbid/tuxvsdragon.git
-        commit: 3a099f894918eca7b61ff122dee91883c93c400d
+        commit: 680308bc126e03bfe06530a76020eb60cd868e95
